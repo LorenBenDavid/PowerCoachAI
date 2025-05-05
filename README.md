@@ -112,8 +112,9 @@ PowerCoach AI is designed to be your **real AI coach** — consistent, adaptive,
 ---
 📸 Screenshots
 
+![תמונה 6 5 2025 ב-0 37](https://github.com/user-attachments/assets/49f6ce56-ac2a-4e76-ac97-644dd48761d0)
 
-![Uploading תמונה 6.5.2025 ב-0.37.jpg…]()
+
 
 ![תמונה 6 5 2025 ב-0 38](https://github.com/user-attachments/assets/890f39c4-c593-4cdb-b79e-e85cde7b0830)
 
